@@ -1,0 +1,12 @@
+message from client: exchange 1 PLN
+Time: 2024-02-22 14:24:23.469355
+
+message from client: exchange 2 PLN
+Time: 2024-02-22 14:30:37.123591
+
+message from client: exchange 1 PLN
+Time: 2024-02-22 14:31:04.044445
+
+message from client: exchange 4 PLN
+Time: 2024-02-22 14:51:01.948998
+
